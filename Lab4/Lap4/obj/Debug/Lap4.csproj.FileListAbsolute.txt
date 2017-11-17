@@ -1,0 +1,7 @@
+D:\Документы\Университет\3 семестр\ООТП\Лабораторные\Lap4\Lap4\obj\Debug\Lap4.csprojResolveAssemblyReference.cache
+D:\Документы\Университет\3 семестр\ООТП\Лабораторные\Lap4\Lap4\obj\Debug\Lap4.csproj.CoreCompileInputs.cache
+D:\Документы\Университет\3 семестр\ООТП\Лабораторные\Lap4\Lap4\bin\Debug\Lap4.exe.config
+D:\Документы\Университет\3 семестр\ООТП\Лабораторные\Lap4\Lap4\bin\Debug\Lap4.exe
+D:\Документы\Университет\3 семестр\ООТП\Лабораторные\Lap4\Lap4\bin\Debug\Lap4.pdb
+D:\Документы\Университет\3 семестр\ООТП\Лабораторные\Lap4\Lap4\obj\Debug\Lap4.exe
+D:\Документы\Университет\3 семестр\ООТП\Лабораторные\Lap4\Lap4\obj\Debug\Lap4.pdb

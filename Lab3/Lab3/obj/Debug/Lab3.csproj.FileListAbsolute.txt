@@ -1,0 +1,7 @@
+D:\Документы\Университет\3 семестр\ООТП\Лабораторные\Lab3\Lab3\bin\Debug\Lab3.exe.config
+D:\Документы\Университет\3 семестр\ООТП\Лабораторные\Lab3\Lab3\bin\Debug\Lab3.exe
+D:\Документы\Университет\3 семестр\ООТП\Лабораторные\Lab3\Lab3\bin\Debug\Lab3.pdb
+D:\Документы\Университет\3 семестр\ООТП\Лабораторные\Lab3\Lab3\obj\Debug\Lab3.csprojResolveAssemblyReference.cache
+D:\Документы\Университет\3 семестр\ООТП\Лабораторные\Lab3\Lab3\obj\Debug\Lab3.csproj.CoreCompileInputs.cache
+D:\Документы\Университет\3 семестр\ООТП\Лабораторные\Lab3\Lab3\obj\Debug\Lab3.exe
+D:\Документы\Университет\3 семестр\ООТП\Лабораторные\Lab3\Lab3\obj\Debug\Lab3.pdb
