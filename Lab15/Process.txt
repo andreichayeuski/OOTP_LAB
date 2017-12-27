@@ -1,0 +1,716 @@
+Id: 4064
+Process name: Lab15
+Start at: 27.12.2017 19:43:03
+
+Id: 3440
+Process name: svchost
+Start at: 25.12.2017 22:17:24
+
+Id: 4732
+Process name: msdtc
+Start at: 26.12.2017 21:44:05
+
+Id: 2576
+Process name: svchost
+Start at: 25.12.2017 22:17:23
+
+Id: 3520
+Process name: NvTelemetryContainer
+Start at: 25.12.2017 22:17:24
+
+Id: 6876
+Process name: NisSrv
+Start at: 25.12.2017 22:17:40
+
+Id: 2564
+Process name: dwm
+Start at: 27.12.2017 9:36:49
+
+Id: 3720
+Process name: svchost
+Start at: 25.12.2017 22:17:24
+
+Id: 5476
+Process name: DataExchangeHost
+Start at: 27.12.2017 17:07:23
+
+Id: 3416
+Process name: svchost
+Start at: 25.12.2017 22:17:24
+
+Id: 396
+Process name: smss
+Start at: 25.12.2017 22:17:03
+
+Id: 8056
+Process name: ServiceHub.VSDetouredHost
+Start at: 27.12.2017 16:23:13
+
+Id: 1248
+Process name: svchost
+Start at: 25.12.2017 22:17:22
+
+Id: 2540
+Process name: svchost
+Start at: 25.12.2017 22:17:23
+
+Id: 4260
+Process name: Memory Compression
+Start at: 25.12.2017 22:17:24
+
+Id: 11888
+Process name: svchost
+Start at: 27.12.2017 12:43:36
+
+Id: 3448
+Process name: lkads
+Start at: 25.12.2017 22:17:24
+
+Id: 4256
+Process name: Calculator
+Start at: 27.12.2017 15:37:40
+
+Id: 3824
+Process name: IpOverUsbSvc
+Start at: 25.12.2017 22:17:24
+
+Id: 3392
+Process name: svchost
+Start at: 25.12.2017 22:17:24
+
+Id: 1232
+Process name: svchost
+Start at: 25.12.2017 22:17:22
+
+Id: 11856
+Process name: Music.UI
+Start at: 27.12.2017 15:37:52
+
+Id: 3384
+Process name: ibtsiva
+Start at: 25.12.2017 22:17:24
+
+Id: 2952
+Process name: svchost
+Start at: 27.12.2017 12:43:30
+
+Id: 1028
+Process name: svchost
+Start at: 25.12.2017 22:17:22
+
+Id: 12516
+Process name: PerfWatson2
+Start at: 27.12.2017 16:22:58
+
+Id: 11568
+Process name: svchost
+Start at: 25.12.2017 22:27:32
+
+Id: 3808
+Process name: ZeroConfigService
+Start at: 25.12.2017 22:17:24
+
+Id: 13288
+Process name: MicrosoftEdgeCP
+Start at: 27.12.2017 15:33:04
+
+Id: 3372
+Process name: HControl
+Start at: 27.12.2017 12:43:35
+
+Id: 3800
+Process name: MsMpEng
+Start at: 25.12.2017 22:17:24
+
+Id: 13300
+Process name: MSASCuiL
+Start at: 27.12.2017 12:43:55
+
+Id: 2504
+Process name: svchost
+Start at: 25.12.2017 22:17:23
+
+Id: 3364
+Process name: svchost
+Start at: 25.12.2017 22:17:24
+
+Id: 3356
+Process name: svchost
+Start at: 25.12.2017 22:17:24
+
+Id: 768
+Process name: lsass
+Start at: 25.12.2017 22:17:21
+
+Id: 3784
+Process name: svchost
+Start at: 25.12.2017 22:17:24
+
+Id: 760
+Process name: services
+Start at: 25.12.2017 22:17:21
+
+Id: 1660
+Process name: svchost
+Start at: 25.12.2017 22:17:22
+
+Id: 3772
+Process name: svchost
+Start at: 25.12.2017 22:17:24
+
+Id: 11664
+Process name: svchost
+Start at: 27.12.2017 18:18:21
+
+Id: 10492
+Process name: wlanext
+Start at: 27.12.2017 18:17:42
+
+Id: 3336
+Process name: esif_uf
+Start at: 25.12.2017 22:17:24
+
+Id: 2472
+Process name: svchost
+Start at: 25.12.2017 22:17:23
+
+Id: 10656
+Process name: audiodg
+Start at: 27.12.2017 15:49:34
+
+Id: 3328
+Process name: svchost
+Start at: 25.12.2017 22:17:24
+
+Id: 9360
+Process name: svchost
+Start at: 27.12.2017 12:45:36
+
+Id: 8496
+Process name: ShellExperienceHost
+Start at: 27.12.2017 12:43:39
+
+Id: 2892
+Process name: AsLdrSrv
+Start at: 25.12.2017 22:17:23
+
+Id: 2028
+Process name: conhost
+Start at: 27.12.2017 12:44:15
+
+Id: 3748
+Process name: svchost
+Start at: 25.12.2017 22:17:24
+
+Id: 2884
+Process name: svchost
+Start at: 25.12.2017 22:17:23
+
+Id: 7192
+Process name: esif_assist_64
+Start at: 27.12.2017 12:43:35
+
+Id: 6324
+Process name: svchost
+Start at: 26.12.2017 6:11:33
+
+Id: 9340
+Process name: svchost
+Start at: 26.12.2017 15:44:45
+
+Id: 3736
+Process name: svchost
+Start at: 25.12.2017 22:17:24
+
+Id: 13156
+Process name: svchost
+Start at: 26.12.2017 11:02:16
+
+Id: 2060
+Process name: conhost
+Start at: 27.12.2017 19:41:00
+
+Id: 13448
+Process name: ServiceHub.RoslynCodeAnalysisService32
+Start at: 27.12.2017 16:23:29
+
+Id: 15268
+Process name: NVDisplay.Container
+Start at: 27.12.2017 9:36:55
+
+Id: 8028
+Process name: svchost
+Start at: 25.12.2017 22:18:03
+
+Id: 3468
+Process name: svchost
+Start at: 25.12.2017 22:17:24
+
+Id: 12304
+Process name: conhost
+Start at: 27.12.2017 19:40:55
+
+Id: 7152
+Process name: svchost
+Start at: 25.12.2017 22:17:45
+
+Id: 1548
+Process name: svchost
+Start at: 25.12.2017 22:17:22
+
+Id: 684
+Process name: wininit
+Start at: 25.12.2017 22:17:21
+
+Id: 6716
+Process name: explorer
+Start at: 27.12.2017 12:43:37
+
+Id: 2836
+Process name: svchost
+Start at: 25.12.2017 22:17:23
+
+Id: 5852
+Process name: AsusTPCenter
+Start at: 27.12.2017 18:18:01
+
+Id: 12316
+Process name: ServiceHub.SettingsHost
+Start at: 27.12.2017 16:23:16
+
+Id: 3008
+Process name: conhost
+Start at: 27.12.2017 19:43:03
+
+Id: 4556
+Process name: svchost
+Start at: 25.12.2017 22:17:24
+
+Id: 2400
+Process name: spoolsv
+Start at: 25.12.2017 22:17:23
+
+Id: 3692
+Process name: SecurityHealthService
+Start at: 25.12.2017 22:17:24
+
+Id: 1536
+Process name: svchost
+Start at: 25.12.2017 22:17:22
+
+Id: 14464
+Process name: RAVBg64
+Start at: 27.12.2017 12:44:07
+
+Id: 1964
+Process name: svchost
+Start at: 25.12.2017 22:17:22
+
+Id: 3684
+Process name: svchost
+Start at: 25.12.2017 22:17:24
+
+Id: 15320
+Process name: DMedia
+Start at: 27.12.2017 12:43:38
+
+Id: 5428
+Process name: unsecapp
+Start at: 25.12.2017 22:17:26
+
+Id: 14456
+Process name: ServiceHub.IdentityHost
+Start at: 27.12.2017 16:23:07
+
+Id: 9712
+Process name: MSBuild
+Start at: 27.12.2017 19:40:50
+
+Id: 3676
+Process name: svchost
+Start at: 26.12.2017 15:44:41
+
+Id: 1088
+Process name: svchost
+Start at: 25.12.2017 22:17:22
+
+Id: 11760
+Process name: svchost
+Start at: 27.12.2017 12:43:36
+
+Id: 8412
+Process name: igfxTray
+Start at: 27.12.2017 12:43:37
+
+Id: 9704
+Process name: svchost
+Start at: 27.12.2017 19:41:34
+
+Id: 5824
+Process name: MicrosoftEdgeCP
+Start at: 27.12.2017 15:49:23
+
+Id: 1944
+Process name: svchost
+Start at: 25.12.2017 22:17:22
+
+Id: 1836
+Process name: svchost
+Start at: 25.12.2017 22:17:22
+
+Id: 7544
+Process name: PresentationFontCache
+Start at: 25.12.2017 22:17:58
+
+Id: 1076
+Process name: svchost
+Start at: 25.12.2017 22:17:22
+
+Id: 14000
+Process name: browser_broker
+Start at: 27.12.2017 15:33:03
+
+Id: 2360
+Process name: nierserver
+Start at: 27.12.2017 12:43:57
+
+Id: 8824
+Process name: RuntimeBroker
+Start at: 27.12.2017 12:43:41
+
+Id: 13796
+Process name: dllhost
+Start at: 26.12.2017 21:44:04
+
+Id: 2348
+Process name: svchost
+Start at: 25.12.2017 22:17:23
+
+Id: 4932
+Process name: SystemWebServer
+Start at: 25.12.2017 22:17:25
+
+Id: 2340
+Process name: svchost
+Start at: 25.12.2017 22:17:23
+
+Id: 1476
+Process name: svchost
+Start at: 25.12.2017 22:17:22
+
+Id: 4920
+Process name: nidmsrv
+Start at: 25.12.2017 22:17:25
+
+Id: 2332
+Process name: svchost
+Start at: 25.12.2017 22:17:23
+
+Id: 12740
+Process name: fontdrvhost
+Start at: 27.12.2017 9:36:49
+
+Id: 11808
+Process name: svchost
+Start at: 26.12.2017 6:11:35
+
+Id: 6204
+Process name: svchost
+Start at: 25.12.2017 22:17:46
+
+Id: 13960
+Process name: InstallAgent
+Start at: 27.12.2017 15:49:23
+
+Id: 8332
+Process name: svchost
+Start at: 25.12.2017 22:20:24
+
+Id: 3608
+Process name: svchost
+Start at: 25.12.2017 22:17:24
+
+Id: 5328
+Process name: OriginWebHelperService
+Start at: 25.12.2017 22:17:26
+
+Id: 11792
+Process name: svchost
+Start at: 25.12.2017 22:27:35
+
+Id: 5912
+Process name: dllhost
+Start at: 27.12.2017 15:57:46
+
+Id: 580
+Process name: csrss
+Start at: 25.12.2017 22:17:19
+
+Id: 3596
+Process name: RegSrvc
+Start at: 25.12.2017 22:17:24
+
+Id: 3160
+Process name: svchost
+Start at: 25.12.2017 22:17:24
+
+Id: 9192
+Process name: smartscreen
+Start at: 27.12.2017 19:23:45
+
+Id: 1864
+Process name: NVDisplay.Container
+Start at: 25.12.2017 22:17:22
+
+Id: 14792
+Process name: VBCSCompiler
+Start at: 27.12.2017 19:40:57
+
+Id: 10048
+Process name: MicrosoftEdgeCP
+Start at: 27.12.2017 15:33:04
+
+Id: 3580
+Process name: PnkBstrA
+Start at: 25.12.2017 22:17:24
+
+Id: 7456
+Process name: svchost
+Start at: 25.12.2017 22:17:58
+
+Id: 1420
+Process name: svchost
+Start at: 25.12.2017 22:17:22
+
+Id: 4004
+Process name: SettingSyncHost
+Start at: 27.12.2017 12:46:42
+
+Id: 4864
+Process name: svchost
+Start at: 25.12.2017 22:17:25
+
+Id: 984
+Process name: svchost
+Start at: 25.12.2017 22:17:22
+
+Id: 2948
+Process name: svchost
+Start at: 27.12.2017 12:50:45
+
+Id: 10892
+Process name: RAVCpl64
+Start at: 27.12.2017 12:44:07
+
+Id: 1464
+Process name: svchost
+Start at: 25.12.2017 22:17:22
+
+Id: 3560
+Process name: svchost
+Start at: 25.12.2017 22:17:24
+
+Id: 13040
+Process name: svchost
+Start at: 26.12.2017 9:38:48
+
+Id: 14760
+Process name: MicrosoftEdge
+Start at: 27.12.2017 15:33:03
+
+Id: 11420
+Process name: AsusTPLoader
+Start at: 27.12.2017 12:44:14
+
+Id: 14048
+Process name: MicrosoftEdgeCP
+Start at: 27.12.2017 15:49:28
+
+Id: 6468
+Process name: ApplicationWebServer
+Start at: 25.12.2017 22:17:36
+
+Id: 8196
+Process name: Microsoft.Photos
+Start at: 27.12.2017 15:37:22
+
+Id: 2252
+Process name: svchost
+Start at: 25.12.2017 22:17:23
+
+Id: 9576
+Process name: sihost
+Start at: 27.12.2017 12:43:36
+
+Id: 3500
+Process name: nvcontainer
+Start at: 25.12.2017 22:17:24
+
+Id: 3344
+Process name: EvtEng
+Start at: 25.12.2017 22:17:24
+
+Id: 14312
+Process name: SearchUI
+Start at: 27.12.2017 18:48:07
+
+Id: 8276
+Process name: winlogon
+Start at: 27.12.2017 9:36:48
+
+Id: 15040
+Process name: NVIDIA Web Helper
+Start at: 27.12.2017 12:44:14
+
+Id: 2240
+Process name: igfxCUIService
+Start at: 25.12.2017 22:17:23
+
+Id: 76
+Process name: svchost
+Start at: 25.12.2017 22:17:22
+
+Id: 2660
+Process name: svchost
+Start at: 26.12.2017 6:14:07
+
+Id: 3952
+Process name: lkcitdl
+Start at: 25.12.2017 22:17:24
+
+Id: 1796
+Process name: svchost
+Start at: 25.12.2017 22:17:22
+
+Id: 14292
+Process name: ApplicationFrameHost
+Start at: 27.12.2017 12:45:58
+
+Id: 4808
+Process name: conhost
+Start at: 27.12.2017 16:23:05
+
+Id: 3944
+Process name: hasplms
+Start at: 25.12.2017 22:17:24
+
+Id: 10408
+Process name: ATKOSD2
+Start at: 27.12.2017 12:43:38
+
+Id: 12992
+Process name: cmd
+Start at: 27.12.2017 19:43:03
+
+Id: 3936
+Process name: lktsrv
+Start at: 25.12.2017 22:17:24
+
+Id: 4796
+Process name: dasHost
+Start at: 25.12.2017 22:17:24
+
+Id: 916
+Process name: svchost
+Start at: 25.12.2017 22:17:22
+
+Id: 5224
+Process name: taskhostw
+Start at: 27.12.2017 12:43:36
+
+Id: 1344
+Process name: AsusTPHelper
+Start at: 27.12.2017 12:44:21
+
+Id: 4784
+Process name: nvcontainer
+Start at: 27.12.2017 12:43:35
+
+Id: 4352
+Process name: ServiceHub.Host.CLR.x86
+Start at: 27.12.2017 16:23:16
+
+Id: 5212
+Process name: OneDrive
+Start at: 27.12.2017 12:43:55
+
+Id: 900
+Process name: fontdrvhost
+Start at: 25.12.2017 22:17:22
+
+Id: 10924
+Process name: devenv
+Start at: 27.12.2017 16:22:56
+
+Id: 6496
+Process name: nimdnsResponder
+Start at: 25.12.2017 22:17:36
+
+Id: 14252
+Process name: ServiceHub.Host.Node.x86
+Start at: 27.12.2017 16:23:04
+
+Id: 13388
+Process name: igfxEM
+Start at: 27.12.2017 12:43:37
+
+Id: 3904
+Process name: svchost
+Start at: 26.12.2017 6:11:32
+
+Id: 15108
+Process name: conhost
+Start at: 27.12.2017 18:17:43
+
+Id: 12088
+Process name: igfxHK
+Start at: 27.12.2017 12:43:37
+
+Id: 1716
+Process name: svchost
+Start at: 25.12.2017 22:17:22
+
+Id: 880
+Process name: svchost
+Start at: 25.12.2017 22:17:22
+
+Id: 2172
+Process name: svchost
+Start at: 25.12.2017 22:17:23
+
+Id: 1740
+Process name: svchost
+Start at: 25.12.2017 22:17:22
+
+Id: 8204
+Process name: SearchIndexer
+Start at: 25.12.2017 22:18:17
+
+Id: 5468
+Process name: WmiPrvSE
+Start at: 25.12.2017 22:17:26
+
+Id: 2596
+Process name: svchost
+Start at: 25.12.2017 22:17:23
+
+Id: 780
+Process name: svchost
+Start at: 25.12.2017 22:18:30
+
+Id: 1640
+Process name: csrss
+Start at: 27.12.2017 9:36:48
+
+Id: 4
+Process name: System
+Start at: 25.12.2017 22:17:03
+
+Id: 1296
+Process name: WUDFHost
+Start at: 25.12.2017 22:17:22
+
+Id: 2588
+Process name: svchost
+Start at: 25.12.2017 22:17:23
+
