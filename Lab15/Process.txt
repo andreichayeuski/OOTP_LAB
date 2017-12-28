@@ -1,6 +1,6 @@
-Id: 4064
-Process name: Lab15
-Start at: 27.12.2017 19:43:03
+Id: 14216
+Process name: PerfWatson2
+Start at: 28.12.2017 9:30:59
 
 Id: 3440
 Process name: svchost
@@ -14,6 +14,10 @@ Id: 2576
 Process name: svchost
 Start at: 25.12.2017 22:17:23
 
+Id: 12484
+Process name: MicrosoftEdge
+Start at: 28.12.2017 9:29:02
+
 Id: 3520
 Process name: NvTelemetryContainer
 Start at: 25.12.2017 22:17:24
@@ -26,13 +30,17 @@ Id: 2564
 Process name: dwm
 Start at: 27.12.2017 9:36:49
 
+Id: 9304
+Process name: devenv
+Start at: 28.12.2017 11:53:26
+
 Id: 3720
 Process name: svchost
 Start at: 25.12.2017 22:17:24
 
-Id: 5476
-Process name: DataExchangeHost
-Start at: 27.12.2017 17:07:23
+Id: 7992
+Process name: conhost
+Start at: 28.12.2017 13:24:08
 
 Id: 3416
 Process name: svchost
@@ -42,10 +50,6 @@ Id: 396
 Process name: smss
 Start at: 25.12.2017 22:17:03
 
-Id: 8056
-Process name: ServiceHub.VSDetouredHost
-Start at: 27.12.2017 16:23:13
-
 Id: 1248
 Process name: svchost
 Start at: 25.12.2017 22:17:22
@@ -53,6 +57,10 @@ Start at: 25.12.2017 22:17:22
 Id: 2540
 Process name: svchost
 Start at: 25.12.2017 22:17:23
+
+Id: 14232
+Process name: MicrosoftEdgeCP
+Start at: 28.12.2017 9:29:03
 
 Id: 4260
 Process name: Memory Compression
@@ -98,10 +106,6 @@ Id: 1028
 Process name: svchost
 Start at: 25.12.2017 22:17:22
 
-Id: 12516
-Process name: PerfWatson2
-Start at: 27.12.2017 16:22:58
-
 Id: 11568
 Process name: svchost
 Start at: 25.12.2017 22:27:32
@@ -110,9 +114,9 @@ Id: 3808
 Process name: ZeroConfigService
 Start at: 25.12.2017 22:17:24
 
-Id: 13288
-Process name: MicrosoftEdgeCP
-Start at: 27.12.2017 15:33:04
+Id: 11996
+Process name: conhost
+Start at: 28.12.2017 9:31:01
 
 Id: 3372
 Process name: HControl
@@ -146,6 +150,10 @@ Id: 3784
 Process name: svchost
 Start at: 25.12.2017 22:17:24
 
+Id: 10244
+Process name: ServiceHub.Host.CLR.x86
+Start at: 28.12.2017 9:31:10
+
 Id: 760
 Process name: services
 Start at: 25.12.2017 22:17:21
@@ -158,14 +166,6 @@ Id: 3772
 Process name: svchost
 Start at: 25.12.2017 22:17:24
 
-Id: 11664
-Process name: svchost
-Start at: 27.12.2017 18:18:21
-
-Id: 10492
-Process name: wlanext
-Start at: 27.12.2017 18:17:42
-
 Id: 3336
 Process name: esif_uf
 Start at: 25.12.2017 22:17:24
@@ -174,9 +174,9 @@ Id: 2472
 Process name: svchost
 Start at: 25.12.2017 22:17:23
 
-Id: 10656
-Process name: audiodg
-Start at: 27.12.2017 15:49:34
+Id: 7208
+Process name: conhost
+Start at: 28.12.2017 12:58:23
 
 Id: 3328
 Process name: svchost
@@ -194,6 +194,10 @@ Id: 2892
 Process name: AsLdrSrv
 Start at: 25.12.2017 22:17:23
 
+Id: 9356
+Process name: ServiceHub.SettingsHost
+Start at: 28.12.2017 9:31:10
+
 Id: 2028
 Process name: conhost
 Start at: 27.12.2017 12:44:15
@@ -201,6 +205,10 @@ Start at: 27.12.2017 12:44:15
 Id: 3748
 Process name: svchost
 Start at: 25.12.2017 22:17:24
+
+Id: 11936
+Process name: ServiceHub.VSDetouredHost
+Start at: 28.12.2017 9:31:05
 
 Id: 2884
 Process name: svchost
@@ -222,17 +230,21 @@ Id: 3736
 Process name: svchost
 Start at: 25.12.2017 22:17:24
 
+Id: 13216
+Process name: ServiceHub.IdentityHost
+Start at: 28.12.2017 9:31:02
+
+Id: 7612
+Process name: ServiceHub.Host.Node.x86
+Start at: 28.12.2017 9:31:01
+
 Id: 13156
 Process name: svchost
 Start at: 26.12.2017 11:02:16
 
-Id: 2060
+Id: 14928
 Process name: conhost
-Start at: 27.12.2017 19:41:00
-
-Id: 13448
-Process name: ServiceHub.RoslynCodeAnalysisService32
-Start at: 27.12.2017 16:23:29
+Start at: 28.12.2017 13:13:23
 
 Id: 15268
 Process name: NVDisplay.Container
@@ -246,9 +258,9 @@ Id: 3468
 Process name: svchost
 Start at: 25.12.2017 22:17:24
 
-Id: 12304
-Process name: conhost
-Start at: 27.12.2017 19:40:55
+Id: 11464
+Process name: wlanext
+Start at: 28.12.2017 12:58:22
 
 Id: 7152
 Process name: svchost
@@ -269,18 +281,6 @@ Start at: 27.12.2017 12:43:37
 Id: 2836
 Process name: svchost
 Start at: 25.12.2017 22:17:23
-
-Id: 5852
-Process name: AsusTPCenter
-Start at: 27.12.2017 18:18:01
-
-Id: 12316
-Process name: ServiceHub.SettingsHost
-Start at: 27.12.2017 16:23:16
-
-Id: 3008
-Process name: conhost
-Start at: 27.12.2017 19:43:03
 
 Id: 4556
 Process name: svchost
@@ -306,6 +306,10 @@ Id: 1964
 Process name: svchost
 Start at: 25.12.2017 22:17:22
 
+Id: 1532
+Process name: MicrosoftEdgeCP
+Start at: 28.12.2017 9:29:03
+
 Id: 3684
 Process name: svchost
 Start at: 25.12.2017 22:17:24
@@ -318,13 +322,9 @@ Id: 5428
 Process name: unsecapp
 Start at: 25.12.2017 22:17:26
 
-Id: 14456
-Process name: ServiceHub.IdentityHost
-Start at: 27.12.2017 16:23:07
-
-Id: 9712
-Process name: MSBuild
-Start at: 27.12.2017 19:40:50
+Id: 12728
+Process name: MicrosoftEdgeCP
+Start at: 28.12.2017 12:21:39
 
 Id: 3676
 Process name: svchost
@@ -342,14 +342,6 @@ Id: 8412
 Process name: igfxTray
 Start at: 27.12.2017 12:43:37
 
-Id: 9704
-Process name: svchost
-Start at: 27.12.2017 19:41:34
-
-Id: 5824
-Process name: MicrosoftEdgeCP
-Start at: 27.12.2017 15:49:23
-
 Id: 1944
 Process name: svchost
 Start at: 25.12.2017 22:17:22
@@ -366,9 +358,13 @@ Id: 1076
 Process name: svchost
 Start at: 25.12.2017 22:17:22
 
+Id: 12280
+Process name: AsusTPCenter
+Start at: 28.12.2017 12:58:26
+
 Id: 14000
-Process name: browser_broker
-Start at: 27.12.2017 15:33:03
+Process name: WINWORD
+Start at: 28.12.2017 12:40:46
 
 Id: 2360
 Process name: nierserver
@@ -377,6 +373,10 @@ Start at: 27.12.2017 12:43:57
 Id: 8824
 Process name: RuntimeBroker
 Start at: 27.12.2017 12:43:41
+
+Id: 14096
+Process name: steamwebhelper
+Start at: 27.12.2017 20:27:03
 
 Id: 13796
 Process name: dllhost
@@ -418,10 +418,6 @@ Id: 6204
 Process name: svchost
 Start at: 25.12.2017 22:17:46
 
-Id: 13960
-Process name: InstallAgent
-Start at: 27.12.2017 15:49:23
-
 Id: 8332
 Process name: svchost
 Start at: 25.12.2017 22:20:24
@@ -437,6 +433,10 @@ Start at: 25.12.2017 22:17:26
 Id: 11792
 Process name: svchost
 Start at: 25.12.2017 22:27:35
+
+Id: 2308
+Process name: MSBuild
+Start at: 28.12.2017 13:13:23
 
 Id: 5912
 Process name: dllhost
@@ -454,25 +454,33 @@ Id: 3160
 Process name: svchost
 Start at: 25.12.2017 22:17:24
 
-Id: 9192
-Process name: smartscreen
-Start at: 27.12.2017 19:23:45
+Id: 9624
+Process name: ServiceHub.SettingsHost
+Start at: 28.12.2017 11:57:39
+
+Id: 7468
+Process name: ServiceHub.IdentityHost
+Start at: 28.12.2017 11:53:43
 
 Id: 1864
 Process name: NVDisplay.Container
 Start at: 25.12.2017 22:17:22
 
-Id: 14792
-Process name: VBCSCompiler
-Start at: 27.12.2017 19:40:57
-
-Id: 10048
-Process name: MicrosoftEdgeCP
-Start at: 27.12.2017 15:33:04
+Id: 2288
+Process name: cmd
+Start at: 28.12.2017 13:24:08
 
 Id: 3580
 Process name: PnkBstrA
 Start at: 25.12.2017 22:17:24
+
+Id: 1736
+Process name: ServiceHub.Host.Node.x86
+Start at: 28.12.2017 11:53:42
+
+Id: 992
+Process name: conhost
+Start at: 28.12.2017 11:53:42
 
 Id: 7456
 Process name: svchost
@@ -506,25 +514,29 @@ Id: 1464
 Process name: svchost
 Start at: 25.12.2017 22:17:22
 
+Id: 9592
+Process name: Lab15
+Start at: 28.12.2017 13:24:08
+
 Id: 3560
 Process name: svchost
 Start at: 25.12.2017 22:17:24
+
+Id: 15196
+Process name: PerfWatson2
+Start at: 28.12.2017 11:53:39
 
 Id: 13040
 Process name: svchost
 Start at: 26.12.2017 9:38:48
 
-Id: 14760
-Process name: MicrosoftEdge
-Start at: 27.12.2017 15:33:03
+Id: 15192
+Process name: browser_broker
+Start at: 28.12.2017 9:29:02
 
 Id: 11420
 Process name: AsusTPLoader
 Start at: 27.12.2017 12:44:14
-
-Id: 14048
-Process name: MicrosoftEdgeCP
-Start at: 27.12.2017 15:49:28
 
 Id: 6468
 Process name: ApplicationWebServer
@@ -537,6 +549,10 @@ Start at: 27.12.2017 15:37:22
 Id: 2252
 Process name: svchost
 Start at: 25.12.2017 22:17:23
+
+Id: 13456
+Process name: devenv
+Start at: 28.12.2017 9:30:58
 
 Id: 9576
 Process name: sihost
@@ -554,6 +570,10 @@ Id: 14312
 Process name: SearchUI
 Start at: 27.12.2017 18:48:07
 
+Id: 10432
+Process name: ServiceHub.RoslynCodeAnalysisService32
+Start at: 28.12.2017 11:53:57
+
 Id: 8276
 Process name: winlogon
 Start at: 27.12.2017 9:36:48
@@ -565,6 +585,18 @@ Start at: 27.12.2017 12:44:14
 Id: 2240
 Process name: igfxCUIService
 Start at: 25.12.2017 22:17:23
+
+Id: 4752
+Process name: steamwebhelper
+Start at: 27.12.2017 20:26:45
+
+Id: 1804
+Process name: InstallAgent
+Start at: 28.12.2017 12:21:39
+
+Id: 14732
+Process name: audiodg
+Start at: 28.12.2017 13:14:21
 
 Id: 76
 Process name: svchost
@@ -586,10 +618,6 @@ Id: 14292
 Process name: ApplicationFrameHost
 Start at: 27.12.2017 12:45:58
 
-Id: 4808
-Process name: conhost
-Start at: 27.12.2017 16:23:05
-
 Id: 3944
 Process name: hasplms
 Start at: 25.12.2017 22:17:24
@@ -597,10 +625,6 @@ Start at: 25.12.2017 22:17:24
 Id: 10408
 Process name: ATKOSD2
 Start at: 27.12.2017 12:43:38
-
-Id: 12992
-Process name: cmd
-Start at: 27.12.2017 19:43:03
 
 Id: 3936
 Process name: lktsrv
@@ -622,13 +646,17 @@ Id: 1344
 Process name: AsusTPHelper
 Start at: 27.12.2017 12:44:21
 
+Id: 908
+Process name: steamwebhelper
+Start at: 27.12.2017 20:26:44
+
 Id: 4784
 Process name: nvcontainer
 Start at: 27.12.2017 12:43:35
 
-Id: 4352
+Id: 10816
 Process name: ServiceHub.Host.CLR.x86
-Start at: 27.12.2017 16:23:16
+Start at: 28.12.2017 11:57:39
 
 Id: 5212
 Process name: OneDrive
@@ -638,29 +666,25 @@ Id: 900
 Process name: fontdrvhost
 Start at: 25.12.2017 22:17:22
 
-Id: 10924
-Process name: devenv
-Start at: 27.12.2017 16:22:56
-
 Id: 6496
 Process name: nimdnsResponder
 Start at: 25.12.2017 22:17:36
 
-Id: 14252
-Process name: ServiceHub.Host.Node.x86
-Start at: 27.12.2017 16:23:04
+Id: 7888
+Process name: ServiceHub.VSDetouredHost
+Start at: 28.12.2017 11:53:49
 
 Id: 13388
 Process name: igfxEM
 Start at: 27.12.2017 12:43:37
 
+Id: 12956
+Process name: MicrosoftEdgeCP
+Start at: 28.12.2017 11:53:28
+
 Id: 3904
 Process name: svchost
 Start at: 26.12.2017 6:11:32
-
-Id: 15108
-Process name: conhost
-Start at: 27.12.2017 18:17:43
 
 Id: 12088
 Process name: igfxHK
@@ -690,6 +714,14 @@ Id: 5468
 Process name: WmiPrvSE
 Start at: 25.12.2017 22:17:26
 
+Id: 10548
+Process name: SteamService
+Start at: 27.12.2017 20:26:45
+
+Id: 9924
+Process name: Steam
+Start at: 27.12.2017 20:26:21
+
 Id: 2596
 Process name: svchost
 Start at: 25.12.2017 22:17:23
@@ -697,6 +729,10 @@ Start at: 25.12.2017 22:17:23
 Id: 780
 Process name: svchost
 Start at: 25.12.2017 22:18:30
+
+Id: 10352
+Process name: ServiceHub.RoslynCodeAnalysisService32
+Start at: 28.12.2017 9:31:41
 
 Id: 1640
 Process name: csrss

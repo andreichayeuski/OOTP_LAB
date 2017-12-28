@@ -39,10 +39,9 @@ namespace Lab15
                 for (int i = 0; i < s; i++)
                 {
                     Console.WriteLine(arr[i] + " ");
-
-                    using (StreamWriter file = new StreamWriter("D:\\Документы\\Университет\\3 семестр\\ООТП\\Лабораторные\\Lab15\\Info.txt", true, System.Text.Encoding.Default))
+                    using (StreamWriter file = new StreamWriter("D:\\Документы\\Университет\\3 семестр\\ООТП\\Лабораторные\\Lab15\\Info.txt",true, System.Text.Encoding.Default))
                     {
-                        file.WriteLine();
+                        file.WriteLine(arr[i] + " ");
                     }
                     Console.Write(arr[i] + " ");
                     Console.WriteLine("Write in File");
@@ -93,7 +92,7 @@ namespace Lab15
                 Console.WriteLine("\nPrime number: ");
                 Thread thread = new Thread(NumberOf);
                 thread.Start();
-                Console.WriteLine("Thread №1 is " + (thread.IsAlive ? "alive" : "not alive"));
+                Console.WriteLine("Thread №1 is " + thread.ThreadState);
                 thread.Name = "Write numbers in file and console";
                 Console.WriteLine("Name: " + thread.Name + "\nPriority: " + thread.Priority + "\nStatus: " + thread.ThreadState + "\nId: " + thread.ManagedThreadId);
                 thread.Join();
@@ -115,9 +114,7 @@ namespace Lab15
 
 
                 int num = 10;
-                // устанавливаем метод обратного вызова
                 TimerCallback tm = new TimerCallback(thrhan.Count);
-                // создаем таймер
                 Timer timer = new Timer(tm, num, 150, 10000);
             }
             catch (Exception ex)

@@ -1,0 +1,7 @@
+D:\Документы\Университет\3 семестр\ООТП\Лабораторные\Lab16\Lab16\bin\Debug\Lab16.exe.config
+D:\Документы\Университет\3 семестр\ООТП\Лабораторные\Lab16\Lab16\bin\Debug\Lab16.exe
+D:\Документы\Университет\3 семестр\ООТП\Лабораторные\Lab16\Lab16\bin\Debug\Lab16.pdb
+D:\Документы\Университет\3 семестр\ООТП\Лабораторные\Lab16\Lab16\obj\Debug\Lab16.csprojResolveAssemblyReference.cache
+D:\Документы\Университет\3 семестр\ООТП\Лабораторные\Lab16\Lab16\obj\Debug\Lab16.csproj.CoreCompileInputs.cache
+D:\Документы\Университет\3 семестр\ООТП\Лабораторные\Lab16\Lab16\obj\Debug\Lab16.exe
+D:\Документы\Университет\3 семестр\ООТП\Лабораторные\Lab16\Lab16\obj\Debug\Lab16.pdb
